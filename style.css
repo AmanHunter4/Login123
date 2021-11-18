@@ -1,0 +1,46 @@
+*{
+    text-align: center;
+    text-decoration: none;
+    text-shadow: black;
+    font-weight: 900px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: bold;
+   font-size: 30px;
+  
+}
+body{
+    background-image: url(https://th.bing.com/th/id/R.45ba592abaf87a96ca6557e0ba0069e5?rik=VrKDmPM1kdz4hg&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2fd%2f3%2fb%2f1383878-download-free-cool-space-backgrounds-2560x1600.jpg&ehk=m1FPb7n0C%2fJJMVhi%2ffy8uNTeKlb7x7YY3eO5R3xJqow%3d&risl=&pid=ImgRaw&r=0);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.7;color: lightgreen;
+    padding: 50px;
+    margin: 2% 10%;
+  
+   
+}
+div{
+    background-color: rgb(207, 190, 190);
+    background-color: rgb(100, 50, 150);
+    width: 900px;
+    height: 300px;
+    background-image: url(https://i.pinimg.com/originals/b5/50/a8/b550a8bb698806d7b53098d96e6504af.jpg);
+    background-repeat:round;
+    background-size: 500px;
+
+}
+button{
+    background-color: skyblue   ;
+    border-radius: 50px;
+    border: black;
+    width: 300px;
+   height: 40px;
+    cursor: pointer;
+margin-bottom: 400px;
+}
+.box{
+  padding: 70%;
+  border: 2px solid black;
+  margin: 100px;
+    width: 150px;
+}
+
